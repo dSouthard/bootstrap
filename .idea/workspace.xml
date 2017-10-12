@@ -2,58 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03385e2c-d72c-4ed5-afdb-b9e8419ba709" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/lib/ojdbc6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/java/com/dsouthard/controller/MainController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/java/com/dsouthard/dao/ClientDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/java/com/dsouthard/dao/impl/ClientDAOImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/java/com/dsouthard/model/ClientDB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/java/com/dsouthard/service/ClientService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/java/com/dsouthard/service/impl/ClientServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/java/com/dsouthard/util/JSONDeserialize.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/java/com/dsouthard/util/JSONSerializer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/resources/hibernate.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/WEB-INF/springmvc-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/jsp/bootstrapSpringGrid.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/angularDatatables/angular-datatables.directive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/angularDatatables/angular-datatables.factory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/angularDatatables/angular-datatables.instances.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/angularDatatables/angular-datatables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/angularDatatables/angular-datatables.options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/angularDatatables/angular-datatables.renderer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/angularDatatables/angular-datatables.util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/js/bootstrap-datetimepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/js/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/js/moment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/bootstrap/js/transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/jquery-3.2.1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/js/validation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BootstrapSpringProject/src/main/webapp/resources/jsRocket/bootstrapSpringGrid.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+              <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -98,6 +46,12 @@
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="132" />
+    <option name="y" value="44" />
+    <option name="width" value="1400" />
+    <option name="height" value="836" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -246,6 +200,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="132" y="44" width="1400" height="836" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -259,7 +214,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -286,7 +241,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
           <folding />
         </state>
       </provider>
