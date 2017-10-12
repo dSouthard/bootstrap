@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dsouthard.bootstrap.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dsouthard.bootstrap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dsouthard.bootstrap_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dsouthard.bootstrap_main.iml" group="com.dsouthard.bootstrap" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.dsouthard.bootstrap_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.dsouthard.bootstrap_test.iml" group="com.dsouthard.bootstrap" />
     </modules>
   </component>
 </project>
